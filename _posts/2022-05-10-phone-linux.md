@@ -5,6 +5,8 @@ layout: post
 title: "给旧手机装个linux后，还能装个啥？比如装一个宝塔面板？"
 
 categories: [技术分享]
+
+tags: [旧手机应用, 宝塔面板]
  
 date: 2022-05-10 12:00:00 +0800
  
